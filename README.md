@@ -1131,13 +1131,9 @@ py.iplot(fig, filename='marker-h-bar')
 ```
 
 
-<script>requirejs.config({paths: { 'plotly': ['https://cdn.plot.ly/plotly-latest.min']},});if(!window.Plotly) {{require(['plotly'],function(plotly) {window.Plotly=plotly;});}}</script>
+Visualizar gráfica en plotly [url](https://plot.ly/~karina.chaires/2/demanda-de-cantidad-de-producto-por-semana/).
 
-
-
-
-
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~karina.chaires/2.embed" height="525px" width="100%"></iframe>
+![grafica1](img/grafica1.png)
 
 
 
@@ -1416,13 +1412,9 @@ py.iplot(fig, filename='scatter-mode')
 ```
 
 
-<script>requirejs.config({paths: { 'plotly': ['https://cdn.plot.ly/plotly-latest.min']},});if(!window.Plotly) {{require(['plotly'],function(plotly) {window.Plotly=plotly;});}}</script>
+Visualizar gráfica en plotly [url](https://plot.ly/~karina.chaires/4.embed).
 
-
-
-
-
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~karina.chaires/4.embed" height="525px" width="100%"></iframe>
+![grafica1](img/grafica2.png)
 
 
 
@@ -1546,14 +1538,9 @@ py.iplot(fig, filename='pandas-horizontal-bar')
 ```
 
 
-<script>requirejs.config({paths: { 'plotly': ['https://cdn.plot.ly/plotly-latest.min']},});if(!window.Plotly) {{require(['plotly'],function(plotly) {window.Plotly=plotly;});}}</script>
+Visualizar gráfica en plotly [url](https://plot.ly/~karina.chaires/6.embed).
 
-
-
-
-
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~karina.chaires/6.embed" height="525px" width="100%"></iframe>
-
+![grafica1](img/grafica3.png)
 
 
 - ### Ventas por semana
@@ -1660,8 +1647,9 @@ py.iplot(fig, filename='scatter-mode')
 
 
 
+Visualizar gráfica en plotly [url](https://plot.ly/~karina.chaires/4.embed).
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~karina.chaires/4.embed" height="525px" width="100%"></iframe>
+![grafica1](img/grafica4.png)
 
 
 
