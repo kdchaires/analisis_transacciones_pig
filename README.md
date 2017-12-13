@@ -1538,7 +1538,7 @@ py.iplot(fig, filename='pandas-horizontal-bar')
 ```
 
 
-Visualizar gráfica en plotly [url](https://plot.ly/~karina.chaires/6.embed).
+Visualizar gráfica en plotly [url](https://plot.ly/~karina.chaires/6/tendencias-de-los-consumidores-en-mexico/).
 
 ![grafica1](img/grafica3.png)
 
@@ -1647,7 +1647,7 @@ py.iplot(fig, filename='scatter-mode')
 
 
 
-Visualizar gráfica en plotly [url](https://plot.ly/~karina.chaires/4.embed).
+Visualizar gráfica en plotly [url](https://plot.ly/~karina.chaires/4/ventas-por-semana/).
 
 ![grafica1](img/grafica4.png)
 
